@@ -1,5 +1,7 @@
 {
   "name": "moodular",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }

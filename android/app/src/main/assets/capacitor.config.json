@@ -1,0 +1,8 @@
+{
+  "appId": "moodular.bdgeeks.com",
+  "appName": "Moodular",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
